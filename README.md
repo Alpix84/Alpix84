@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alpix84
 - 👀 I’m interested in programming, gaming football and F1.
-- 🌱 I’m currently learning C++, Java and Unity.
+- 🌱 I’m currently learning Kotlin and Unity.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: alpar0184@gmail.com !
 
