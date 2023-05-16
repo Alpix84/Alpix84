@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alpix84
 - 👀 I’m interested in programming, gaming,football and F1.
-- 🌱 I’m currently learning Kotlin and Unity.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C# in .Net and Unity.
+- 💞️ I’m looking to collaborate on game projects.
 - 📫 How to reach me: alpar0184@gmail.com !
 
 <!---
